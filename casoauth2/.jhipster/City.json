@@ -1,0 +1,20 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "name",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "country",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20170928090840",
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "city",
+    "jpaMetamodelFiltering": false,
+    "pagination": "no"
+}
